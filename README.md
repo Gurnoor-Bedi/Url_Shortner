@@ -1,9 +1,4 @@
 # Url_Shortner
-
-Certainly! Here's an example of a README file for your Flask web application that uses the `pyshorteners` library to shorten URLs. This README is also written in Markdown format.
-
----
-
 # Flask URL Shortener
 
 This repository contains a Flask web application that provides a simple interface for shortening URLs using the `pyshorteners` library.
